@@ -76,4 +76,4 @@
 **AirBnB Layout with React**
 - on your own, use React to remake the AirBnB layout
 ![AirBnB layout image]
-https://raw.githubusercontent.com/SEI-SEA-1-25/css-airbnb/main/solution.jpg
+(https://raw.githubusercontent.com/SEI-SEA-1-25/css-airbnb/main/solution.jpg)
